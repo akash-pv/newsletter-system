@@ -61,7 +61,7 @@ const Navbar = () => {
     className="h-8 w-8 rounded-full object-cover"
   />
   <span className="text-white text-2xl font-extrabold tracking-wider">
-    ZINGUPDATE
+    NEWSUPDATE
   </span>
 </div>
 

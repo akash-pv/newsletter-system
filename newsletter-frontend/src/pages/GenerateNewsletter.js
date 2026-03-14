@@ -144,7 +144,7 @@ const GenerateNewsletter = () => {
   const [activeId, setActiveId] = useState(null);
   const [activeItemData, setActiveItemData] = useState(null);
   const [selectedItemForView, setSelectedItemForView] = useState(null);
-  const [newsletterTitle, setNewsletterTitle] = useState("ZINGUPDATE JUNE");
+  const [newsletterTitle, setNewsletterTitle] = useState("NEWSUPDATE JUNE");
   const [newsletterDate, setNewsletterDate] = useState(
     new Date().toLocaleDateString("en-US", {
       year: "numeric",
