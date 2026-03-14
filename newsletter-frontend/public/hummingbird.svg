@@ -1,0 +1,17 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+
+  <!--
+    Very simplified hummingbird silhouette.
+    Feel free to tweak the control points or replace with a more detailed trace.
+  -->
+  <path d="
+      M120 300
+      C80 260, 40 220, 120 180
+      C200 140, 260 180, 320 140
+      C380 100, 440 180, 380 240
+      C440 300, 380 360, 320 320
+      C260 280, 200 340, 120 300
+      Z
+    " fill="#000"></path>
+</svg>
