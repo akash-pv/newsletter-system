@@ -76,6 +76,28 @@ The system is divided into four layers:
 
 ---
 
+## Application Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Login Page
+![Login](screenshots/Login.png)
+
+### Article Review
+![Article Review](screenshots/Article_review.png)
+
+### User Approval
+![User Approval](screenshots/user_approval.png)
+
+### Generate Newsletter
+![Generate Newsletter](screenshots/Generate_news_layout.png)
+
+### FAQ Page
+![FAQ](screenshots/FAQ.png)
+
+---
+
 ## Database Schema
 
 ### Core Tables
