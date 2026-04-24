@@ -148,7 +148,7 @@ newsletter-system/
 | Node.js | v18+ |
 | MySQL | 8.0+ |
 | Ollama | Latest |
-| Mistral model | `ollama pull mistral` |
+| Mistral model | `ollama mistral` |
 
 
 ## 📊 Analytics Module
